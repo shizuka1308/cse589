@@ -2,7 +2,7 @@
 
 CSE589 Modern Networking Concepts Course Projects
 
-All code write in C, file path: cse489589_assignment*/src/
+All code write in C/C++, file path: cse489589_assignment*/src/
 
 Assignment_1: Chatting Application. Applied TCP/IP protocol and socket programming. Up to 5 machines connected, one acts as server, the others act as users.
 
